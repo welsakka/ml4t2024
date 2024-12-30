@@ -1,0 +1,1 @@
+Georgia Tech - All projects completed for Machine Learning for Trading 
